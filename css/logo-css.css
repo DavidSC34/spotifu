@@ -1,0 +1,13 @@
+.logo{
+    padding-inline-start: 1rem;
+    padding-inline-end: 1rem;/*por si ne el futuro se agrega texto*/
+}
+
+
+.logo-image{
+    /*widht y height, pensando a futuro en media queries*/
+    inline-size: 7rem;
+    block-size: 2rem;
+  
+
+}

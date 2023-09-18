@@ -3,8 +3,15 @@
 @import './body.css'; 
 @import './link.css'; 
 @import './button-icon.css'; 
+@import './sidebar.css'; 
+@import './ellipsis.css'; 
+@import './player.css'; 
+
+
 
 :root{
+
+    /* font-size: 30px; */
  --primary:#00B050;
  --white:#FFFFFF;
  --gray10:#B3B3B3;
